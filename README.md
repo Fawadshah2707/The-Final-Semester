@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🎓 The Final Semester
 
@@ -17,8 +16,10 @@
 
 <br/>
 
-![Game Banner](assets/banner.png)
-<!-- Replace with an actual screenshot or banner image -->
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bebf2fc7-26fc-4814-8e18-76ff56c3c14f" /><div align="center">
+
+
+
 
 </div>
 
@@ -39,7 +40,7 @@ This is not just a game. It's a reflection of real struggles faced by students a
 | Feature | Details |
 |---|---|
 | **Genre** | Serious Game / Narrative Adventure |
-| **Perspective** | Third Person |
+| **Perspective** | isometric/Orthogonal/2.5D |
 | **Scenes** | 8 Story-Driven Chapters |
 | **Core Mechanic** | Branching Dialogue & Ethical Choices |
 | **Save System** | JSON-based State Persistence |
@@ -125,10 +126,12 @@ TheFinalsemester/
 
 | Scene | Preview |
 |---|---|
-| Main Menu | ![Main Menu](assets/screenshots/main_menu.png) |
-| Classroom Scene | ![Classroom](assets/screenshots/classroom.png) |
-| Dialogue System | ![Dialogue](assets/screenshots/dialogue.png) |
-| Decision Moment | ![Decision](assets/screenshots/decision.png) |
+| Main Menu | <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e5c64df0-8208-4167-9b89-659117bc8591" />
+ |
+| Dialogue System | <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/70988c63-13a2-4907-bcde-ca119ae6b4f7" />
+ |
+| Decision Moment |<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a9163711-1c72-49d6-8fe5-c1a5cf68d2fa" />
+|
 
 ---
 
