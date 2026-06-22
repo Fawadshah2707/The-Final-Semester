@@ -126,12 +126,12 @@ TheFinalsemester/
 
 | Scene | Preview |
 |---|---|
-| Main Menu | <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e5c64df0-8208-4167-9b89-659117bc8591" />
- |
-| Dialogue System | <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/70988c63-13a2-4907-bcde-ca119ae6b4f7" />
- |
-| Decision Moment |<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a9163711-1c72-49d6-8fe5-c1a5cf68d2fa" />
-|
+| Main Menu | (<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e5c64df0-8208-4167-9b89-659117bc8591" />
+ )|
+| Dialogue System | (<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/70988c63-13a2-4907-bcde-ca119ae6b4f7" />
+) |
+| Decision Moment |(<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a9163711-1c72-49d6-8fe5-c1a5cf68d2fa" />
+)|
 
 ---
 
